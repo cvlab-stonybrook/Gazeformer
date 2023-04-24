@@ -42,7 +42,7 @@ For evaluation, run the following
 # Citation 
 If you use this work, please cite as follows :
 ```
-    @article{mondal2023gazeformer,
+  @article{mondal2023gazeformer,
   title={Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention},
   author={Mondal, Sounak and Yang, Zhibo and Ahn, Seoyoung and Samaras, Dimitris and Zelinsky, Gregory and Hoai, Minh},
   journal={arXiv preprint arXiv:2303.15274},
