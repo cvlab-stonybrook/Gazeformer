@@ -8,8 +8,8 @@ Predicting human gaze is important in Human-Computer Interaction (HCI). However,
 # Installation
 
 ```bash
-conda create --name cvpr23 python=3.8.5
-conda activate cvpr23
+conda create --name gazeformer python=3.8.5
+conda activate gazeformer
 bash install.sh
 ```
 # Files to download
@@ -27,7 +27,7 @@ Download the contents of this [link](https://drive.google.com/drive/folders/1uA6
     gazeformer_cocosearch_TP.pkg                  # checkpoint for inference on target-present test data
 ```
 
-Remember to extract ```resnet-features.tar.gz``` to obtain the pre-computed image features.
+Extract ```resnet-features.tar.gz``` to obtain the pre-computed image features.
 
 # Scripts
 
