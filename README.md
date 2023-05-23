@@ -42,11 +42,13 @@ For evaluation, run the following
 # Citation 
 If you use this work, please cite as follows :
 ```
-  @article{mondal2023gazeformer,
-  title={Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention},
-  author={Mondal, Sounak and Yang, Zhibo and Ahn, Seoyoung and Samaras, Dimitris and Zelinsky, Gregory and Hoai, Minh},
-  journal={arXiv preprint arXiv:2303.15274},
-  year={2023}
+  @InProceedings{Mondal_2023_CVPR,
+    author    = {Mondal, Sounak and Yang, Zhibo and Ahn, Seoyoung and Samaras, Dimitris and Zelinsky, Gregory and Hoai, Minh},
+    title     = {Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {1441-1450}
 }
 ```
 
