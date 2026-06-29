@@ -1,7 +1,7 @@
 # Gazeformer
 Official codebase for CVPR 2023 publication "Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention" by Sounak Mondal, Zhibo Yang, Seoyoung Ahn, Dimitris Samaras, Greg Zelinsky, Minh Hoai.
 
-Contact **Sounak Mondal** at ```somondal@cs.stonybrook.edu``` for any queries.
+Contact **Sounak Mondal** at ```somondal@cs.stonybrook.edu``` for any queries. **Please do not open issues in this repository for questions or inquiries, as we do not actively monitor it. Instead, please contact me directly via email.**
 
 [[arXiv](https://arxiv.org/abs/2303.15274)] [[CVPR 2023 Open Access](https://openaccess.thecvf.com/content/CVPR2023/html/Mondal_Gazeformer_Scalable_Effective_and_Fast_Prediction_of_Goal-Directed_Human_Attention_CVPR_2023_paper.html)] 
 
